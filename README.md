@@ -5,7 +5,6 @@
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-
 - :school: I am a Community Leader at `ICPC AIET`.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `ECPC`.

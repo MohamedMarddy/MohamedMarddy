@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohamed Marddy Shakra </h1>
 <h3 align="center">Software Engineer </h3>	
 
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
+
 <br><br>
 - :school: I am a Community Leader at `ICPC AIET`.
 - :technologist: I love using Software as a solution for every `Problem`.
